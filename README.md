@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋, This is Ayyan Guru Eswar
+### A passionate frontend developer looking to learn more by contributing to projects
+<img src="https://komarev.com/ghpvc/?username=Ayyangurueswar&style=flat-square&color=blue" alt=""/>
+
+### :hammer_and_wrench: Languages and Tools :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyangurueswar)](https://github.com/anuraghazra/github-readme-stats)
+
+### My GitHub stats: (looking to improve it :sweat_smile:)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ayyangurueswar)
 
 <!--
 **Ayyangurueswar/Ayyangurueswar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
